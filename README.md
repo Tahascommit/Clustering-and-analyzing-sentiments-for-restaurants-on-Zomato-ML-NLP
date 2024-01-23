@@ -48,6 +48,6 @@
 
 #### Predicting Sentiment for new data with trained model:
 
-<img src="https://github.com/Tahascommit/Clustering-and-analyzing-sentiments-for-restaurants-on-Zomato-ML-NLP/blob/1657550202174e9f15465be2fbc12e1448f2563c/gifs/Sentiment_pred.png" width="670" height="280">
+<img src="https://github.com/Tahascommit/Clustering-and-analyzing-sentiments-for-restaurants-on-Zomato-ML-NLP/blob/1657550202174e9f15465be2fbc12e1448f2563c/gifs/Sentiment_pred.png" width="1000" height="350">
 
 
