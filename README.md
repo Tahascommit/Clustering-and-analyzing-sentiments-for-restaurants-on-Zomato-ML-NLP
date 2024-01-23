@@ -38,6 +38,36 @@
 *   **Operational Improvement**: Identifying gaps in service and areas for improvement.
 *   **Critic Analysis**: Using reviewer metadata to identify influential critics in the industry.
 
+#### Models used for Restaurant Clustering:
+
+1. K-Means clustering  (Selected)
+2. Hierarchical clustering
+3. DBSCAN
+
+#### Models used for Sentiment Analysis:
+
+*   Logistic Regression (Selected after hyperparameter tuning and cross-validation)
+    
+    *   Accuracy: 87.8% - This was the highest among all models.
+    *   Precision: Exhibited a good balance, slightly higher for class 1 (positive sentiment).
+    *   Recall: Was better at identifying class 1 (positive sentiment), with a notable difference compared to class 0 (negative sentiment).
+    *   F1-Score: Was high for both classes, particularly for class 1, indicating a strong overall performance.
+*   Random Forest
+    
+    *   Accuracy: 85.94% - Slightly lower than Logistic Regression.
+    *   Precision and Recall: Were comparatively lower than Logistic Regression, especially recall for class 0 (negative sentiment) which was significantly lower.
+    *   F1-Score: Fair for both classes but lower than Logistic Regression, especially for class 0.
+*   XGBoost
+    
+    *   Accuracy: 86.39% - Close to Logistic Regression, but slightly lower.
+    *   Precision and Recall: Were balanced, with a marginal preference for class 1. Recall for class 0 was better than Random Forest but not as good as Logistic Regression.
+    *   F1-Score: High for both classes, indicating effective performance, particularly for class 1.
+*   Gradient Boosting
+    
+    *   Accuracy: 84.08% - The lowest among the models.
+    *   Precision and Recall: Precision was relatively balanced, but recall was notably lower for class 0, affecting its overall performance.
+    *   F1-Score: Lower for class 0, indicating challenges in identifying negative sentiments as effectively as other models.
+
 #### Restaurant Clustering (K-Means) Snap:
 
 <img src="https://github.com/Tahascommit/Clustering-and-analyzing-sentiments-for-restaurants-on-Zomato-ML-NLP/blob/e870f527d3a1a9bda909eae286c06b7f841ff812/gifs/kmeans_3d.gif" width="670" height="280">
