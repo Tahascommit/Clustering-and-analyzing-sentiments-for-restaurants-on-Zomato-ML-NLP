@@ -37,3 +37,8 @@
 *   **Market Analysis**: Understanding popular trends in cuisines and dining experiences.
 *   **Operational Improvement**: Identifying gaps in service and areas for improvement.
 *   **Critic Analysis**: Using reviewer metadata to identify influential critics in the industry.
+
+#### Cluster (K-Means) Snap:
+
+<img src="https://github.com/Tahascommit/Clustering-and-analyzing-sentiments-for-restaurants-on-Zomato-ML-NLP/blob/e870f527d3a1a9bda909eae286c06b7f841ff812/gifs/kmeans_3d.gif" width="300" height="200">
+
