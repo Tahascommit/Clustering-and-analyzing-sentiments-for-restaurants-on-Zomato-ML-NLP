@@ -40,5 +40,5 @@
 
 #### Cluster (K-Means) Snap:
 
-<img src="https://github.com/Tahascommit/Clustering-and-analyzing-sentiments-for-restaurants-on-Zomato-ML-NLP/blob/e870f527d3a1a9bda909eae286c06b7f841ff812/gifs/kmeans_3d.gif" width="300" height="200">
+<img src="https://github.com/Tahascommit/Clustering-and-analyzing-sentiments-for-restaurants-on-Zomato-ML-NLP/blob/e870f527d3a1a9bda909eae286c06b7f841ff812/gifs/kmeans_3d.gif" width="670" height="280">
 
