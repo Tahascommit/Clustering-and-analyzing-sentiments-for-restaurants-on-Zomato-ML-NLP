@@ -38,7 +38,11 @@
 *   **Operational Improvement**: Identifying gaps in service and areas for improvement.
 *   **Critic Analysis**: Using reviewer metadata to identify influential critics in the industry.
 
-#### Cluster (K-Means) Snap:
+#### Restaurant Clustering (K-Means) Snap:
 
 <img src="https://github.com/Tahascommit/Clustering-and-analyzing-sentiments-for-restaurants-on-Zomato-ML-NLP/blob/e870f527d3a1a9bda909eae286c06b7f841ff812/gifs/kmeans_3d.gif" width="670" height="280">
+
+#### Predicting Cluster (K-Means) :
+
+<img src="https://github.com/Tahascommit/Clustering-and-analyzing-sentiments-for-restaurants-on-Zomato-ML-NLP/blob/f5c6aa0ce711ed01ff518d9933d070ea4665755a/gifs/k_means_pred.png" width="1000" height="350">
 
