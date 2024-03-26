@@ -3,7 +3,7 @@
 </p >
 
 
-# Clustering-and-analyzing-sentiments-for-restaurants-on-Zomato.
+# ML-NLP-Clustering And Analyzing Sentiments For Restaurants On Zomato
 #### Objectives:
 
 1.  **Cluster Zomato Restaurants**: Group restaurants into distinct clusters.
