@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" >
   <img src="https://github.com/Tahascommit/Clustering-and-analyzing-sentiments-for-restaurants-on-Zomato-ML-NLP/blob/a66fefdd4cf739196326e80da0de0a664fd0e860/gifs/Zomato%20Restaurant%20clustering%20and%20sentiment%20analysis.png" width="703" height="340">
 </p >
 
